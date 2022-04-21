@@ -1,0 +1,13 @@
+nemo_experiments/SGDGEN/2022-04-21_02-05-33/nemo_log_globalrank-0_localrank-0.txt
+tests/__pycache__/__init__.cpython-38.pyc
+tests/__pycache__/conftest.cpython-38.pyc
+tests/__pycache__/manualtest_model_downloads.cpython-38.pyc
+tests/core/__pycache__/__init__.cpython-38.pyc
+tests/core/__pycache__/test_config_utils.cpython-38.pyc
+tests/core/__pycache__/test_exp_manager.cpython-38.pyc
+tests/core/__pycache__/test_fileio.cpython-38.pyc
+tests/core/__pycache__/test_neural_types.cpython-38.pyc
+tests/core/__pycache__/test_optimizers_schedulers.cpython-38.pyc
+tests/core/__pycache__/test_save_restore.cpython-38.pyc
+tests/core/__pycache__/test_serialization.cpython-38.pyc
+tests/core/__pycache__/test_typecheck.cpython-38.pyc
